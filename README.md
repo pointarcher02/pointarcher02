@@ -1,6 +1,6 @@
 ![logo](Shashank.png)
 <h1 align="center">Hi 👋, I'm Shashank Asthana</h1>
-<h3 align="center">A passionate Machine learning and deep learning enthusiast</h3>
+<h3 align="center">A passionate Machine learning and Deep learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pointarcher02&label=Profile%20views&color=0e75b6&style=flat" alt="pointarcher02" /> </p>
 
