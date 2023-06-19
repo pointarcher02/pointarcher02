@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **asthana.2@iitj.ac.in**
 
-- 📄 Know about my experiences [https://ivory-mable-41.tiiny.site/](https://ivory-mable-41.tiiny.site/)
+- 📄 Know about my experiences [https://shashankcv.tiiny.site](Shashank_CV)
 
 - ⚡ Fun fact **Tech enthusiast, avid reader, music lover, aspiring innovator.**
 
