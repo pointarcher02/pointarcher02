@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **asthana.2@iitj.ac.in**
 
-- 📄 Know about my experiences [Shashank_CV](https://shashankcv.tiiny.site)
+- 📄 Know about my experiences [Shashank_CV](https://shashankresume.tiiny.site)
 
 - ⚡ Fun fact **Tech enthusiast, avid reader, music lover, aspiring innovator.**
 
